@@ -1,0 +1,32 @@
+.Umair{
+    display: block;
+    margin: 0 auto;
+}
+.image{
+    width: 200px;
+    height: 160px;
+}
+.maxx{
+    text-align: center;
+}
+.about{
+    text-align: center;
+}
+.span{
+    font-weight: bolder;
+}
+.Table{
+    text-align: center;
+}
+.Tables{
+    display: grid;
+   place-items: center;
+ }
+ .max{
+        display: grid;
+   place-items: center;
+ }
+ .Site{
+     text-align: center;
+     padding: 5px;
+ }
